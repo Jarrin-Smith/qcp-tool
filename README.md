@@ -1,3 +1,5 @@
+##This version excludes sensitive data and the .env file. This was created to speed up verifying 12,000 module data that had to be reworked. 
+
 # 📘 How to Use the QCP Tool
 
 ## ✅ Requirements
@@ -57,5 +59,3 @@ You can run the script in one of two ways:
   - 🚩 **Flags** for any `LOT_ID` that contains a `boolean = 'F'` (Out of spec)
 
 All results will be displayed in the terminal after the script finishes running.
-
-Please double check that this works properly!!!
