@@ -1,4 +1,4 @@
-##This version excludes sensitive data and the .env file. This was created to speed up verifying 12,000 module data that had to be reworked. 
+## This version excludes sensitive data and the .env file. This was created to speed up verifying 12,000 module data that had to be reworked. 
 
 # 📘 How to Use the QCP Tool
 
